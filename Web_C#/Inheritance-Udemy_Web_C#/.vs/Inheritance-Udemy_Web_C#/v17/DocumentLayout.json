@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F1FF6A-7F1A-46DE-AD64-CC10B1C23A13}|Inheritance-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\inheritance-udemy_web_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F1FF6A-7F1A-46DE-AD64-CC10B1C23A13}|Inheritance-Udemy_Web_C#.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F1FF6A-7F1A-46DE-AD64-CC10B1C23A13}|Inheritance-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\inheritance-udemy_web_c#\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F1FF6A-7F1A-46DE-AD64-CC10B1C23A13}|Inheritance-Udemy_Web_C#.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F1FF6A-7F1A-46DE-AD64-CC10B1C23A13}|Inheritance-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\inheritance-udemy_web_c#\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F1FF6A-7F1A-46DE-AD64-CC10B1C23A13}|Inheritance-Udemy_Web_C#.csproj|solutionrelative:human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F1FF6A-7F1A-46DE-AD64-CC10B1C23A13}|Inheritance-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\inheritance-udemy_web_c#\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F1FF6A-7F1A-46DE-AD64-CC10B1C23A13}|Inheritance-Udemy_Web_C#.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F1FF6A-7F1A-46DE-AD64-CC10B1C23A13}|Inheritance-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\inheritance-udemy_web_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2F1FF6A-7F1A-46DE-AD64-CC10B1C23A13}|Inheritance-Udemy_Web_C#.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:57:51.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:55:18.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:53:37.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\Human.cs",
+              "RelativeDocumentMoniker": "Human.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\Human.cs",
+              "RelativeToolTip": "Human.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:52:26.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Inheritance-Udemy_Web_C#\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:52:03.507Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

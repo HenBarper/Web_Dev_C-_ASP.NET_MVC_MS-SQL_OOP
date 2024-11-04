@@ -1,0 +1,10 @@
+C:\Users\benja\source\repos\Lists-Udemy_Web_C#\bin\Debug\Lists-Udemy_Web_C#.exe.config
+C:\Users\benja\source\repos\Lists-Udemy_Web_C#\bin\Debug\Lists-Udemy_Web_C#.exe
+C:\Users\benja\source\repos\Lists-Udemy_Web_C#\bin\Debug\Lists-Udemy_Web_C#.pdb
+C:\Users\benja\source\repos\Lists-Udemy_Web_C#\obj\Debug\Lists-Udemy_Web_C#.csproj.AssemblyReference.cache
+C:\Users\benja\source\repos\Lists-Udemy_Web_C#\obj\Debug\Lists_Udemy_Web_C_.Form1.resources
+C:\Users\benja\source\repos\Lists-Udemy_Web_C#\obj\Debug\Lists_Udemy_Web_C_.Properties.Resources.resources
+C:\Users\benja\source\repos\Lists-Udemy_Web_C#\obj\Debug\Lists-Udemy_Web_C#.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\Lists-Udemy_Web_C#\obj\Debug\Lists-Udemy_Web_C#.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\Lists-Udemy_Web_C#\obj\Debug\Lists-Udemy_Web_C#.exe
+C:\Users\benja\source\repos\Lists-Udemy_Web_C#\obj\Debug\Lists-Udemy_Web_C#.pdb

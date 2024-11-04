@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Control-Udemy_Web_C#", "Exception_Control-Udemy_Web_C#.csproj", "{ADE54AAD-C5A0-42BB-8286-FA4EC1B921C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE54AAD-C5A0-42BB-8286-FA4EC1B921C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE54AAD-C5A0-42BB-8286-FA4EC1B921C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE54AAD-C5A0-42BB-8286-FA4EC1B921C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE54AAD-C5A0-42BB-8286-FA4EC1B921C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF54562-873D-4A2D-B849-F572A247763B}
+	EndGlobalSection
+EndGlobal

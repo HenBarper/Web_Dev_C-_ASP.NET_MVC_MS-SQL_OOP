@@ -1,0 +1,10 @@
+C:\Users\benja\source\repos\Directory-Udemy_Web_C#\bin\Debug\Directory-Udemy_Web_C#.exe.config
+C:\Users\benja\source\repos\Directory-Udemy_Web_C#\bin\Debug\Directory-Udemy_Web_C#.exe
+C:\Users\benja\source\repos\Directory-Udemy_Web_C#\bin\Debug\Directory-Udemy_Web_C#.pdb
+C:\Users\benja\source\repos\Directory-Udemy_Web_C#\obj\Debug\Directory-Udemy_Web_C#.csproj.AssemblyReference.cache
+C:\Users\benja\source\repos\Directory-Udemy_Web_C#\obj\Debug\Directory_Udemy_Web_C_.Form1.resources
+C:\Users\benja\source\repos\Directory-Udemy_Web_C#\obj\Debug\Directory_Udemy_Web_C_.Properties.Resources.resources
+C:\Users\benja\source\repos\Directory-Udemy_Web_C#\obj\Debug\Directory-Udemy_Web_C#.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\Directory-Udemy_Web_C#\obj\Debug\Directory-Udemy_Web_C#.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\Directory-Udemy_Web_C#\obj\Debug\Directory-Udemy_Web_C#.exe
+C:\Users\benja\source\repos\Directory-Udemy_Web_C#\obj\Debug\Directory-Udemy_Web_C#.pdb

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\polymorphism-udemy_web_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\polymorphism-udemy_web_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\polymorphism-udemy_web_c#\\employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|solutionrelative:employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\polymorphism-udemy_web_c#\\teacher2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|solutionrelative:teacher2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\polymorphism-udemy_web_c#\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|c:\\users\\benja\\source\\repos\\polymorphism-udemy_web_c#\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E0AB2B-3A88-4BE4-AB15-3E53AA686A5D}|Polymorphism-Udemy_Web_C#.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher2.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Teacher2.cs",
+              "RelativeDocumentMoniker": "Teacher2.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Teacher2.cs",
+              "RelativeToolTip": "Teacher2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:43:33.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee2.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Employee2.cs",
+              "RelativeDocumentMoniker": "Employee2.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Employee2.cs",
+              "RelativeToolTip": "Employee2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:43:25.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwD0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:36:41.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:34:30.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:33:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Polymorphism-Udemy_Web_C#\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:32:56.471Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
