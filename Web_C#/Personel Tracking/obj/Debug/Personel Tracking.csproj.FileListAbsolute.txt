@@ -1,0 +1,29 @@
+C:\Users\benja\source\repos\Personel Tracking\bin\Debug\Personel Tracking.exe.config
+C:\Users\benja\source\repos\Personel Tracking\bin\Debug\Personel Tracking.exe
+C:\Users\benja\source\repos\Personel Tracking\bin\Debug\Personel Tracking.pdb
+C:\Users\benja\source\repos\Personel Tracking\bin\Debug\BLL.dll
+C:\Users\benja\source\repos\Personel Tracking\bin\Debug\DAL.dll
+C:\Users\benja\source\repos\Personel Tracking\bin\Debug\BLL.pdb
+C:\Users\benja\source\repos\Personel Tracking\bin\Debug\DAL.pdb
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel Tracking.csproj.AssemblyReference.cache
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormLogin.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.Properties.Resources.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel Tracking.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel Tracking.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel.83402ACA.Up2Date
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel Tracking.exe
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel Tracking.pdb
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormDepartment.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormEmployee.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormEmployeeList.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormMain.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormPosition.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormPositionList.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormTaskList.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormPermission.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormPermissionList.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormSalary.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormSalaryList.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormTask.resources
+C:\Users\benja\source\repos\Personel Tracking\obj\Debug\Personel_Tracking.FormDepartmentList.resources
+C:\Users\benja\source\repos\Personel Tracking\bin\Debug\DAL.dll.config

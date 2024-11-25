@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|c:\\users\\benja\\source\\repos\\personel tracking\\formtasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formtasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|c:\\users\\benja\\source\\repos\\personel tracking\\formemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|c:\\users\\benja\\source\\repos\\personel tracking\\formtasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formtasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|c:\\users\\benja\\source\\repos\\personel tracking\\formemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formemployeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|c:\\users\\benja\\source\\repos\\personel tracking\\formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|c:\\users\\benja\\source\\repos\\personel tracking\\dal\\dao\\taskdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|solutionrelative:dal\\dao\\taskdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|c:\\users\\benja\\source\\repos\\personel tracking\\dal\\dto\\taskdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\taskdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|c:\\users\\benja\\source\\repos\\personel tracking\\formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|c:\\users\\benja\\source\\repos\\personel tracking\\dal\\dto\\positiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\positiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E72FB5-A9A6-4514-A91C-9700E0FA6DCF}|BLL\\BLL.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\bll\\positionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E72FB5-A9A6-4514-A91C-9700E0FA6DCF}|BLL\\BLL.csproj|solutionrelative:bll\\positionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E72FB5-A9A6-4514-A91C-9700E0FA6DCF}|BLL\\BLL.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E72FB5-A9A6-4514-A91C-9700E0FA6DCF}|BLL\\BLL.csproj|solutionrelative:bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\dal\\dto\\employeedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\employeedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\formpositionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formpositionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\formdepartmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formdepartmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\formpositionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formpositionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\dal\\dao\\positiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|solutionrelative:dal\\dao\\positiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\formposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\formposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E72FB5-A9A6-4514-A91C-9700E0FA6DCF}|BLL\\BLL.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E72FB5-A9A6-4514-A91C-9700E0FA6DCF}|BLL\\BLL.csproj|solutionrelative:bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\dal\\dao\\departmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|solutionrelative:dal\\dao\\departmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\dal\\dao\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|solutionrelative:dal\\dao\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\dal\\employeedataclass.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{979F3046-FB30-4631-9C13-C20D7F59365A}|DAL\\DAL.csproj|solutionrelative:dal\\employeedataclass.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|C:\\Users\\benja\\source\\repos\\Personel Tracking\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFD698EC-C5C2-4F83-B313-3C6C74E0B354}|Personel Tracking.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEmployeeList.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormEmployeeList.cs",
+              "RelativeDocumentMoniker": "FormEmployeeList.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormEmployeeList.cs",
+              "RelativeToolTip": "FormEmployeeList.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowF0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:21:10.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEmployeeList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormEmployeeList.cs",
+              "RelativeDocumentMoniker": "FormEmployeeList.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormEmployeeList.cs [Design]",
+              "RelativeToolTip": "FormEmployeeList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:21:06.321Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTaskList.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormTaskList.cs",
+              "RelativeDocumentMoniker": "FormTaskList.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormTaskList.cs",
+              "RelativeToolTip": "FormTaskList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:45:08.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormTaskList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormTaskList.cs",
+              "RelativeDocumentMoniker": "FormTaskList.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormTaskList.cs [Design]",
+              "RelativeToolTip": "FormTaskList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:44:32.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskDAO.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DAO\\TaskDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\TaskDAO.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DAO\\TaskDAO.cs",
+              "RelativeToolTip": "DAL\\DAO\\TaskDAO.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwDkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:51:55.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DTO\\TaskDetailDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\TaskDetailDTO.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DTO\\TaskDetailDTO.cs",
+              "RelativeToolTip": "DAL\\DTO\\TaskDetailDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:58:09.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTask.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormTask.cs",
+              "RelativeDocumentMoniker": "FormTask.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormTask.cs [Design]",
+              "RelativeToolTip": "FormTask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:51:37.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormTask.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormTask.cs",
+              "RelativeDocumentMoniker": "FormTask.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormTask.cs",
+              "RelativeToolTip": "FormTask.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:14:54.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeBLL.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\BLL\\EmployeeBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\EmployeeBLL.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\BLL\\EmployeeBLL.cs",
+              "RelativeToolTip": "BLL\\EmployeeBLL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:05:35.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PositionBLL.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\BLL\\PositionBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\PositionBLL.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\BLL\\PositionBLL.cs",
+              "RelativeToolTip": "BLL\\PositionBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:51:18.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DTO\\PositionDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\PositionDTO.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DTO\\PositionDTO.cs",
+              "RelativeToolTip": "DAL\\DTO\\PositionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:15:06.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DTO\\EmployeeDetailDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\EmployeeDetailDTO.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DTO\\EmployeeDetailDTO.cs",
+              "RelativeToolTip": "DAL\\DTO\\EmployeeDetailDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:15:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormEmployee.cs",
+              "RelativeDocumentMoniker": "FormEmployee.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormEmployee.cs [Design]",
+              "RelativeToolTip": "FormEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:08:00.433Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormPositionList.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormPositionList.cs",
+              "RelativeDocumentMoniker": "FormPositionList.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormPositionList.cs",
+              "RelativeToolTip": "FormPositionList.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:30:20.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PositionDAO.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DAO\\PositionDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\PositionDAO.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DAO\\PositionDAO.cs",
+              "RelativeToolTip": "DAL\\DAO\\PositionDAO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvygAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:51:43.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDepartmentList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormDepartmentList.cs",
+              "RelativeDocumentMoniker": "FormDepartmentList.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormDepartmentList.cs [Design]",
+              "RelativeToolTip": "FormDepartmentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:08:08.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormPositionList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormPositionList.cs",
+              "RelativeDocumentMoniker": "FormPositionList.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormPositionList.cs [Design]",
+              "RelativeToolTip": "FormPositionList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:30:18.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormPosition.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormPosition.cs",
+              "RelativeDocumentMoniker": "FormPosition.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormPosition.cs",
+              "RelativeToolTip": "FormPosition.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwCsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:52:14.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormPosition.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormPosition.cs",
+              "RelativeDocumentMoniker": "FormPosition.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormPosition.cs [Design]",
+              "RelativeToolTip": "FormPosition.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:50:58.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartmentBLL.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\BLL\\DepartmentBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DepartmentBLL.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\BLL\\DepartmentBLL.cs",
+              "RelativeToolTip": "BLL\\DepartmentBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:53:01.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepartmentDAO.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DAO\\DepartmentDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\DepartmentDAO.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DAO\\DepartmentDAO.cs",
+              "RelativeToolTip": "DAL\\DAO\\DepartmentDAO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:53:37.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormDepartment.cs",
+              "RelativeDocumentMoniker": "FormDepartment.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormDepartment.cs",
+              "RelativeToolTip": "FormDepartment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:54:15.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormDepartment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormDepartment.cs",
+              "RelativeDocumentMoniker": "FormDepartment.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormDepartment.cs [Design]",
+              "RelativeToolTip": "FormDepartment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:54:13.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DAO\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DAO\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\DAO\\EmployeeContext.cs",
+              "RelativeToolTip": "DAL\\DAO\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:50:37.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeDataClass.dbml",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\EmployeeDataClass.dbml",
+              "RelativeDocumentMoniker": "DAL\\EmployeeDataClass.dbml",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\DAL\\EmployeeDataClass.dbml",
+              "RelativeToolTip": "DAL\\EmployeeDataClass.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-11-14T20:44:31.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswEgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:17:25.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\benja\\source\\repos\\Personel Tracking\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:05:51.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
